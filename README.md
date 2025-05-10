@@ -1,1 +1,1 @@
-# checkers-game-project
+# checkers-without-checkers-game-project
