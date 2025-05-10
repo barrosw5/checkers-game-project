@@ -1,4 +1,4 @@
-# checkers without checkers game project
+# checkers without checkers game
 To run this project/game just download the folder including everything I used to develop it.
 Then run the file named View.java, wich is in the source folder, and have fun!
 
